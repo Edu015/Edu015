@@ -8,7 +8,7 @@
 
 -  Eu aprendendo a programar recentemente a linguagens de JavaScript
 
-- 📫 redes sociais:[email}(eduardoborba614@gmail.com)
+- 📫 redes sociais:[email](eduardoborba614@gmail.com)
 
 - Instagram:@__edu_santos__
 - Discord:Ken Kaneki#2470
