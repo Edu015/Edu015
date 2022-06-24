@@ -4,6 +4,8 @@
 
 - 👍 Eu estou interessando em aprender a programar novas linguagens.
 
+-  gosto de musica e jogos
+
 -  Eu aprendendo a programar recentemente a linguagens de JavaScript
 
 - 📫 redes sociais:[email}(eduardoborba614@gmail.com)
