@@ -2,11 +2,11 @@
 
 - 😄 Olà,meu nome é **Edu015**
 
-- 👍 Eu estou interessando em aprender a programar novas linguagens.
+- 👍 Eu estou interessando em aprender a programar novas linguagens de computação.
 
--  gosto de musica e jogos
+-  gosto de musica e jogos.
 
--  Eu aprendendo a programar recentemente a linguagens de JavaScript
+-  Eu estou aprendendo a programar recentemente a linguagens de JavaScript.
 
 - 📫 redes sociais:[email](eduardoborba614@gmail.com)
 
