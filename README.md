@@ -11,4 +11,4 @@
 - 📫 redes sociais:[email](eduardoborba614@gmail.com)
 
 - Instagram:@__edu_santos__
-- Discord:Ken Kaneki#2470
+- Discord:Vega#2470
